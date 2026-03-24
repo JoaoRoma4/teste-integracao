@@ -1,4 +1,5 @@
  Teste de Integração - Exercício Aula 18/03
+ 
 Este repositório contém a resolução do exercício prático sobre Testes de Integração. O objetivo principal foi validar a comunicação e a troca de dados entre módulos distintos de um sistema.
 
  Estrutura e Modularização
